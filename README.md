@@ -1,7 +1,7 @@
 # test_sheep
 #Дано <br>
 Есть 4 загона в которых вырастает живность  <br>
-![Alt text](imgt.jpg?raw=true "Title")
+![Alt text](imgt.JPG?raw=true "Title")
 
 Тестовое задание:<br>
 •	Написать API с использованием RESTful<br>
