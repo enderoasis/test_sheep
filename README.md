@@ -1,7 +1,7 @@
 # test_sheep
 #Дано <br>
 Есть 4 загона в которых вырастает живность  <br>
-![alt text](https://github.com/[enderoasis]/[test_sheep]/blob/[master]/imgt.JPG?raw=true)
+![Alt text](imgt.jpg?raw=true "Title")
 
 Тестовое задание:<br>
 •	Написать API с использованием RESTful<br>
